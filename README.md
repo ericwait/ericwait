@@ -22,13 +22,7 @@ Notable repositories are:
 
 ## Toolboxes 🧰
 
-<img src="https://worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logos/gitlab.svg" alt="Github Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Github Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Github Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/gitlab.svg" alt="Github Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Github Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Github Logo" width="50" height="50"/>
 <!-- <img src="" alt="Logo" width="50" height="50"/> -->
 
 ----
