@@ -5,10 +5,10 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Eric Wait.
-I do image analysis and consultation for microscopy data in the [Advanced Imaging Center](https://aicjanelia.org) at [Janelia](https://janelia.org).
-The Advanced Imaging Center (AIC) provides access to newly developed microscopes free to the rest of the world (see [applications](https://aicjanelia.org/apply)).
+I'm an image analysis and consultant in the [Advanced Imaging Center](https://aicjanelia.org) at [Janelia](https://janelia.org).
+The Advanced Imaging Center provides access to newly developed microscopes free to the rest of the world (see [applications](https://aicjanelia.org/apply)).
 The microscopes available produce data beyond what is capable with commercial microscopes.
-For this reason, I'm here to assist visitors on how to best process this data in a way that directly relates to their stated hypothesis.
+For this reason, I assist visitors on how to best process this data in a way that directly relates to their stated hypothesis.
 
 The repositories that I maintain here are tools and processes that I have found useful for image processing.
 Notable repositories are:
