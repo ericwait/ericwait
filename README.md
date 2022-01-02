@@ -8,7 +8,7 @@ My name is Eric Wait, see my life's story [here](https://ericwait.com).
 I currently work at a startup called Elephas Bio.
 More details to come when I can share them :smile:.
 
-I was formally an image analysis and consultant in the [Advanced Imaging Center](https://aicjanelia.org) at [Janelia](https://janelia.org).
+I was formally an image analysis programmer and consultant with the [Advanced Imaging Center](https://aicjanelia.org) at [Janelia](https://janelia.org) which is a [HHMI](https://hhmi.org) campus.
 The Advanced Imaging Center provides access to newly developed microscopes free to the rest of the world (see [applications](https://aicjanelia.org/apply)).
 The microscopes available produce data beyond what is capable with commercial microscopes.
 For this reason, I assist visitors on how to best process this data in a way that directly relates to their stated hypothesis.
