@@ -1,133 +1,166 @@
-## Hi, I'm Eric 👋
+# Eric Wait, PhD
 
-**GPU/ML Systems Engineer | Building efficient AI at the intersection of physics and deep learning**
+## Engineering Leader | Technical Mentor | GPU/ML Systems Architect
 
-I architect high-performance machine learning systems that process terabyte-scale data in real-time. My approach combines domain knowledge with modern AI to create interpretable, deployable solutions that respect the physics of the problem space.
+I build high-performance systems and the teams that sustain them. After leading cross-functional teams across academic research (HHMI Janelia), startup environments (Elephas Biosciences), and 21 years of military service, I'm transitioning into full-time technical leadership; mentoring the next generation to build production-ready systems with the same rigor and long-term thinking that has kept my open-source tools in use worldwide for 12+ years.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ericwaitinfo)
-[![Website](https://img.shields.io/badge/Website-ericwait.com-green?style=flat-square&logo=google-chrome)](https://ericwait.com)
-[![Publications](https://img.shields.io/badge/Publications-Nature%20%7C%20JCS-orange?style=flat-square)](https://ericwait.com/pubs)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:info@ericwait.com)
-
----
-
-### 🧠 Philosophy: "The Best Model is the One You Don't Need to Train"
-
-```python
-class PhysicsInformedML:
-    def __init__(self, domain_knowledge, data):
-        self.physics = domain_knowledge  # What we know about the world
-        self.patterns = data            # What we observe
-        self.hybrid_model = None
-    
-    def solve(self):
-        # Combine human knowledge with machine learning
-        constraints = self.physics.get_conservation_laws()
-        neural_net = self.build_network(self.patterns)
-        
-        # The magic: ML that respects physics
-        self.hybrid_model = constrain(neural_net, constraints)
-        return self.hybrid_model  # Faster, more accurate, interpretable
-```
----
-
-### 🔥 Current Focus
-
-| Area | Description | Impact |
-|------|-------------|---------|
-| **Physics-Informed Neural Networks** | Embedding physical constraints into deep learning | 80% reduction in training data needs |
-| **GPU-Accelerated ML Pipelines** | Custom CUDA kernels for real-time inference | 60% speedup in production systems |
-| **Multi-Modal Data Fusion** | Correlating imaging, signal, and sensor data | Novel insights impossible with single modalities |
-| **Edge AI Deployment** | Optimizing models for constrained environments | Real-time processing on embedded systems |
-
-### 🛠️ Technical Arsenal
-
-**Languages & Compute:**
-![C++](https://img.shields.io/badge/C++-Expert-blue?style=flat-square&logo=cplusplus)
-![CUDA](https://img.shields.io/badge/CUDA-Expert-green?style=flat-square&logo=nvidia)
-![Python](https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square&logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-Expert-orange?style=flat-square&logo=mathworks)
-
-**ML/AI Stack:**
-![PyTorch](https://img.shields.io/badge/PyTorch-Production-red?style=flat-square&logo=pytorch)
-![TensorRT](https://img.shields.io/badge/TensorRT-Optimization-green?style=flat-square&logo=nvidia)
-![OpenGL](https://img.shields.io/badge/OpenGL-Graphics-blue?style=flat-square&logo=opengl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ericwaitinfo)
+[![Website](https://img.shields.io/badge/Website-ericwait.com-00ADD8?style=flat-square&logo=google-chrome)](https://ericwait.com)
+[![Email](https://img.shields.io/badge/Email-info@ericwait.com-D14836?style=flat-square&logo=gmail)](mailto:info@ericwait.com)
 
 ---
 
-### 🚀 Featured Projects
+## What I Bring
 
-#### 🌟 [Hydra Image Processor](https://github.com/ericwait/hydra-image-processor)
+### 🌉 Translation & Technical Leadership
 
-**GPU-accelerated tensor operations library | Production ML infrastructure**
+Rare combination of PhD-level technical expertise in GPU-accelerated ML systems and exceptional ability to translate complexity into clarity. I bridge technical teams and product vision, speed development, and build team cohesion through empathetic mentorship.
 
-```cpp
-// Example: 100x speedup on 5D convolutions
-__global__ void physics_constrained_conv5d(
-    float* input, float* output, float* physics_kernel
-) {
-    // Custom CUDA kernel respecting conservation laws
-    // Used in production processing TB-scale data
-}
-```
+### 🎯 Building What Lasts
 
-- 🎯 **Impact:** Processing terabyte datasets in real-time
-- ⚡ **Performance:** 100x speedup over traditional implementations
-- 🔗 **Integration:** Python/MATLAB bindings for easy deployment
-- 📊 **Usage:** Deployed in production ML pipelines
+I focus on sustainable, maintainable solutions over quick wins. My open-source tools have been in continuous development for 12+ years and are still actively used worldwide—because I build systems that serve real workflows, not impressive demos.
 
-#### 🧮 [Physics-ML Fusion](https://github.com/ericwait/physics-ml-fusion) *(Coming Soon)*
+### 👥 Next-Generation Mentorship
 
-**Hybrid models combining neural networks with physical constraints**
+I multiply impact through delegation and mentorship. After training personnel in high-stakes military operations, advising 170+ international scientists, and leading diverse software teams, I'm focused on developing technical leaders who combine engineering excellence with outcome-driven discipline.
 
-Exploring how domain knowledge can make machine learning more efficient:
+### 💡 Outcome-Driven Discipline
 
-- Conservation law constraints in neural architectures
-- Reduced training data requirements through physics priors
-- Interpretable AI that follows known physical principles
+Keep teams anchored to success criteria at every decision point—build what's needed, not what's possible. Published framework in *Journal of Cell Science* (2020): ["Hypothesis-driven quantitative fluorescence microscopy"](https://doi.org/10.1242/jcs.250027).
 
 ---
 
-### 💼 Experience Highlights
+## Featured Open-Source Projects
 
-| Role | Organization | Key Achievement |
-|------|--------------|-----------------|
-| **Principal Data Scientist** | Elephas Biosciences | Built GPU-accelerated ML systems for multi-modal biological data |
-| **Data Scientist** | HHMI Janelia Research | Developed algorithms processing hundreds of TB of imaging data |
-| **HPC Consultant** | Fortune 500 | Optimized computational pipelines, reducing runtime from days to hours |
+### ⚡ [Hydra Image Processor](https://github.com/ericwait/hydra-image-processor)
 
-### 📊 Real-World Impact
+#### GPU-accelerated tensor operations library | Production ML infrastructure
 
-- **🚀 Performance:** Reduced ML inference latency by 60% through custom CUDA implementations
-- **📈 Scale:** Deployed systems processing 1M+ predictions/day in production
-- **🔬 Research:** Published in Nature, Nature Communications, Journal of Cell Science
-- **⚡ Efficiency:** Cut analysis time by 90% through GPU acceleration and smart algorithms
+**The Challenge:** Biological microscopy analysis too slow—days per dataset with traditional CPU methods.
 
----
+**The Solution:** Custom CUDA kernels with accessible Python/MATLAB wrappers—leverage GPU acceleration without writing CUDA yourself.
 
-### 🎯 What I'm Looking For
+**Impact:**
 
-I'm passionate about roles where I can:
+- 💯 **100x speedups** through GPU acceleration
+- 🌍 **Global adoption** by elite research institutions worldwide
+- 📚 **Published** in *Bioinformatics* (2019)
+- ⏱️ **12+ years** continuous development (first commit August 2013)
 
-- Build production ML systems that push the boundaries of efficiency
-- Apply physics-informed approaches to reduce computational requirements
-- Optimize deep learning models for edge deployment
-- Lead technical teams in solving complex, multi-modal ML challenges
+**Key Innovation:** Accessible interfaces matter as much as raw performance—the best optimization is one people actually use.
 
-### 📈 GitHub Stats
+**Technologies:** C++, CUDA, DirectX | Python/MATLAB bindings | CMake, vcpkg
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwait&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwait&layout=compact&theme=dark)
-
-### 📫 Let's Connect
-
-I'm always interested in discussing efficient AI, GPU optimization, and physics-informed ML.
-
-- 💼 [LinkedIn](https://linkedin.com/in/ericwaitinfo) - Let's connect professionally
-- 🌐 [Website](https://ericwait.com) - Learn more about my work
-- 📧 [Email](mailto:eric@waitphoto.com) - For collaboration opportunities
-- 📄 [Resume](https://ericwait.com/resume.pdf) - Full background
+[GitHub](https://github.com/ericwait/hydra-image-processor) • [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/176123-hydra-image-processor) • [Publication](https://doi.org/10.1093/bioinformatics/btz297)
 
 ---
 
-*"The best optimization is the computation you don't have to do." - My approach to ML systems*
+### 🔬 [Direct 5D Viewer](https://github.com/ericwait/direct-5D-viewer)
+
+#### Interactive visualization leveraging human visual perception | Real-time terabyte-scale rendering
+
+**The Challenge:** 5D microscopy data (x, y, z, channels, time) is incomprehensible when collapsed into 2D projections—researchers draw false conclusions about spatial relationships.
+
+**The Solution:** GPU-accelerated interactive visualization that exploits human vision strengths (motion detection, depth sensitivity, pattern recognition).
+
+**Impact:**
+
+- 👥 **Used by 170+ scientists** at HHMI Janelia and collaborating institutions
+- 🔬 **Enabled discoveries** published in *Nature* and *Nature Communications*
+- ✅ **Prevented algorithmic errors** through visual validation with polygon overlay
+- 🎬 **Real-time rendering** with adjustable-speed temporal playback and stereoscopic 3D
+
+**Key Innovation:** Technology should amplify human capability (visual perception), not replace it.
+
+**Technologies:** C++ (79%), DirectX, HLSL shaders | MATLAB MEX interface | CMake
+
+[GitHub](https://github.com/ericwait/direct-5D-viewer) • [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/176924-direct-5d-viewer)
+
+---
+
+### 🧪 [MATLAB Utilities](https://github.com/ericwait/matlab-utilities)
+
+#### A decade of modular problem-solving | Foundation for innovation
+
+**The Philosophy:** Organize research code when you have 10 functions, not 1,000—modularity compounds, each reusable function becomes foundation for the next.
+
+**The Solution:** Structured collection of microscopy analysis utilities treating research code like production software from day one.
+
+**Impact:**
+
+- 🏗️ **Foundation** for Hydra Image Processor and Direct 5D Viewer
+- 🌍 **Used globally** at research institutions and collaborating laboratories
+- 📅 **11+ years** continuous development (started 2013)
+- 📖 **"Show your warts"** — Public development showing evolution, mistakes, and learning moments
+
+**Key Innovation:** Unified reader/writer system for all microscope formats—write analysis code once, apply to any microscope data.
+
+**Technologies:** MATLAB packages | JSON metadata | Multi-format support (TIFF, OME-TIFF, CZI, ND2)
+
+[GitHub](https://github.com/ericwait/matlab-utilities) • [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/176913-microscope-utilities)
+
+---
+
+### 📸 [Home Media AI](https://github.com/ericwait/home-media-ai)
+
+#### ML-powered photo curation | Organizing 200K+ personal collections
+
+**The Challenge:** Finding "great photos" in massive personal collections—combining technical metrics (sharpness, exposure) with subjective aesthetic judgment.
+
+**The Solution:** Computer vision + YOLO object detection + hierarchical classification to surface the best images from 200,000+ photo libraries.
+
+**Impact:**
+
+- 🎯 **10x efficiency gain** — Review 2,000 candidates instead of 20,000 images
+- 🗄️ **Scale-tested** on 700K+ file collections
+- 🌲 **Flexible taxonomies** — Biological classification (World Flora Online), geographic hierarchies, custom categories
+- 🔒 **Long-term reliability** — Checksummed tracking, never moves/deletes originals
+
+**Key Innovation:** ML should multiply human capability, not replace it—surface the best candidates, let humans make final decisions.
+
+**Technologies:** Python, SQLAlchemy, MariaDB | OpenCV, YOLO, scikit-learn | Jupyter Lab
+
+[GitHub](https://github.com/ericwait/home-media-ai)
+
+---
+
+## Open Source Commitment
+
+All major projects publicly available and actively maintained:
+
+- **12+ years** maintaining Hydra Image Processor (since 2013)
+- **Open development** showing evolution, mistakes, and learning moments
+- **Accessible interfaces** considered alongside raw performance
+- **Global adoption** by research institutions and collaborative teams worldwide
+- **Reproducible science** through documented pipelines and version control
+
+---
+
+## Let's Connect
+
+I'm actively seeking **technical leadership roles** where I can shape engineering culture, mentor teams, and build production ML systems that matter.
+
+**Open to:**
+
+- Staff/Principal Engineer → Engineering Manager transitions
+- Technical Lead roles with mentorship responsibilities
+- Director of Engineering positions at mission-driven organizations
+- CTO/VP Engineering roles at startup organizations
+
+**Ideal environments:**
+
+- Mission-driven organizations where technical excellence serves meaningful purpose
+- Teams that value sustainable engineering practices and long-term thinking
+- Cross-functional collaboration between technical and business stakeholders
+- Mentorship and leadership development culture
+
+📧 **Email:** [info@ericwait.com](mailto:info@ericwait.com)
+💼 **LinkedIn:** [linkedin.com/in/ericwaitinfo](https://linkedin.com/in/ericwaitinfo)
+🌐 **Website:** [ericwait.com](https://ericwait.com)
+📄 **Resume:** [ericwait.com/pdfs/Eric_Wait.pdf](https://ericwait.com/pdfs/Eric_Wait.pdf)
+
+---
+
+*"The camera is an instrument that teaches people how to see without a camera."* — Dorothea Lange
+
+My professional photography training taught me pattern recognition that informs data visualization, compositional discipline that ensures reproducible systems, and a fundamental truth: **the best solution often requires subtracting, not adding**—whether in photographs, ML architectures, or team processes.
